@@ -18,7 +18,7 @@ Full report will be available at https://github.com/TQSProject23/docs
 
 ## Architecture Diagram
 
-![Architecture Diagram](https://github.com/TQSProject23/files/blob/main/arcth.png)
+![Architecture Diagram](https://github.com/TQSProject23/files/blob/main/archt_diagrm_bg.png)
 
 ## Project Bookmarks
 JIRA - https://tqsproject23.atlassian.net/jira/software/projects/TP/boards/1  (not yet up to date)  
