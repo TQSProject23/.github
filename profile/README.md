@@ -1,6 +1,8 @@
 # LoadConnect
 
-Abstract goes here
+LoadConnect is a software solution establishing and managing a network of pickup points as a service.   
+It aims to streamline and optimize the process of order collection and package pickup for businesses and their customers. 
+
 
 Full report will be available at https://github.com/TQSProject23/docs
 
