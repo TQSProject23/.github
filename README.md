@@ -1,8 +1,9 @@
 # LoadConnect
 
 ## Team Members
-Name	Role
-Pedro	TeamManager and QA Engineer
-Silva	DevOps
-João	Product Owner
- 
+
+| Name  | Role         |
+|-------|--------------|
+| Pedro | TeamManager & QA Engineer & Developer |
+| Silva | DevOps  & Developer |
+| João  | Product Owner & Developer | 
