@@ -12,9 +12,13 @@ Full report will be available at https://github.com/TQSProject23/docs
 
 | Name  | Role         |
 |-------|--------------|
-| Pedro Rasinhas | TeamManager & QA Engineer & Developer |
-| Gonçalo Silva | DevOps & Developer |
+| [Pedro Rasinhas](https://github.com/r4sinhas) | TeamManager & QA Engineer & Developer |
+| [Gonçalo Silva](https://github.com/GoncaloSilva25) | DevOps & Developer |
 | João  Matos | Product Owner & Developer | 
+
+## Architecture Diagram
+
+![Architecture Diagram](https://github.com/TQSProject23/files/blob/main/arcth.png) "Architecture Diagram")
 
 ## Project Bookmarks
 JIRA - https://tqsproject23.atlassian.net/jira/software/projects/TP/boards/1  (not yet up to date)  
