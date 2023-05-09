@@ -4,6 +4,6 @@
 
 | Name  | Role         |
 |-------|--------------|
-| Pedro | TeamManager & QA Engineer & Developer |
-| Silva | DevOps  & Developer |
-| João  | Product Owner & Developer | 
+| Pedro Rasinhas | TeamManager & QA Engineer & Developer |
+| Gonçalo Silva | DevOps  & Developer |
+| João  Matos | Product Owner & Developer | 
