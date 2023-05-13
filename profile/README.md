@@ -13,8 +13,8 @@ Full report will be available at https://github.com/TQSProject23/docs
 | Name  | Role         |
 |-------|--------------|
 | [Pedro Rasinhas](https://github.com/r4sinhas) | TeamManager & QA Engineer & Developer |
-| [Gonçalo Silva](https://github.com/GoncaloSilva25) | DevOps & Developer |
-| João  Matos | Product Owner & Developer | 
+| [Gonçalo Silva](https://github.com/GoncaloSilva25) | DevOps & Developer | 
+| [João Matos](https://github.com/JoaoMat10) | Product Owner & Developer | 
 
 ## Architecture Diagram
 
