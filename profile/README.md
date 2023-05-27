@@ -17,11 +17,11 @@ Full report will be available at https://github.com/TQSProject23/docs
 | [João Matos](https://github.com/JoaoMat10) | Product Owner & Developer | 
 ----
 ## Project Bookmarks
-JIRA - https://tqsproject23.atlassian.net/jira/software/projects/TP/boards/1 
-Core Frotend - https://github.com/TQSProject23/core_frontend  
-Core Backend - https://github.com/TQSProject23/core_backend  
-Service Frotend - https://github.com/TQSProject23/service_frontend  
-Service Backend - https://github.com/TQSProject23/service_backend  
+JIRA - https://tqsproject23.atlassian.net/jira/software/projects/TP/boards/1   
+Core Frotend - https://github.com/TQSProject23/core_frontend    
+Core Backend - https://github.com/TQSProject23/core_backend    
+Service Frotend - https://github.com/TQSProject23/service_frontend    
+Service Backend - https://github.com/TQSProject23/service_backend   
 
 ----
 
