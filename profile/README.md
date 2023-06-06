@@ -4,10 +4,6 @@ LoadConnect is a software solution establishing and managing a network of pickup
 It aims to streamline and optimize the process of order collection and package pickup for businesses and their customers. 
 
 
-Full report available at https://github.com/TQSProject23/docs
-
-----
-
 ## Team Members
 
 | Name  | Role         |
@@ -30,11 +26,10 @@ Full report available at https://github.com/TQSProject23/docs
 
 ### QA Dashboard - Sonar Cloud
 [Sonar Cloud](https://sonarcloud.io/project/overview?id=TQSProject23_core_backend)  
-
 ----
 
-### Deployment
 
+### Deployment
 [LoadConnect](https://loadconnect-ad7d6.web.app/)    
 [E-Store](https://bytewave-baad0.web.app/)
 
