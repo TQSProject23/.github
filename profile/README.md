@@ -25,7 +25,7 @@ Full report available at https://github.com/TQSProject23/docs
 ----
 
 ### API Documentation
-
+[API Documentation](https://loadconnect.azurewebsites.net/swagger-ui/index.html)
 ----
 
 ### QA Dashboard - Sonar Cloud
