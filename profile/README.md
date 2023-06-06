@@ -35,6 +35,6 @@ Full report available at https://github.com/TQSProject23/docs
 
 ### Deployment
 
-[LoadConnect](https://loadconnect-ad7d6.web.app/)
+[LoadConnect](https://loadconnect-ad7d6.web.app/)    
 [E-Store](https://bytewave-baad0.web.app/)
 
