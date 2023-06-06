@@ -30,6 +30,25 @@ It aims to streamline and optimize the process of order collection and package p
 
 
 ### Deployment
-[LoadConnect](https://loadconnect-ad7d6.web.app/)    
+[LoadConnect](https://loadconnect-ad7d6.web.app/)   
+
+> credentials: 
+>
+> Admin: 
+>
+> > user: admin@a.b
+> >
+> > pass: admin
+>
+> Partner Store:
+>
+> > user: worten2@ua.pt	
+> >
+> > pass: worten
+
 [E-Store](https://bytewave-baad0.web.app/)
+
+> check orders for :
+>
+> > email: jonas@a.b
 
