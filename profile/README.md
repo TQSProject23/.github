@@ -21,7 +21,7 @@ Full report available at https://github.com/TQSProject23/docs
 [Core Frotend](https://github.com/TQSProject23/core_frontend)  
 [Core Backend](https://github.com/TQSProject23/core_backend)  
 [Store](https://github.com/TQSProject23/store_moreorless)  
-
+[Documentation](https://github.com/TQSProject23/docs)  
 ----
 
 ### API Documentation
