@@ -18,9 +18,9 @@ Full report available at https://github.com/TQSProject23/docs
 ----
 ## Project Bookmarks
 [JIRA](https://tqsproject23.atlassian.net/jira/software/projects/TP/boards/1)  
-[Core Frotend]((https://github.com/TQSProject23/core_frontend)  
-[Core Backend]((https://github.com/TQSProject23/core_backend)  
-[Store]((https://github.com/TQSProject23/store_moreorless)  
+[Core Frotend](https://github.com/TQSProject23/core_frontend)  
+[Core Backend](https://github.com/TQSProject23/core_backend)  
+[Store](https://github.com/TQSProject23/store_moreorless)  
 
 ----
 
