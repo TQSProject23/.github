@@ -31,7 +31,7 @@ Full report available at https://github.com/TQSProject23/docs
 ### QA Dashboard - Sonar Cloud
 [Sonar Cloud](https://sonarcloud.io/project/overview?id=TQSProject23_core_backend)  
 
------
+----
 
 ### Deployment
 
